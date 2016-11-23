@@ -1,0 +1,42 @@
+* Wed Nov 23 2016 Ryan Parman <ryan@ryanparman.com> 1.0.0
+- Added CentOS Continuous Release
+- Added CentOS Extras
+- Added CentOS Fast Track
+- Added CentOS OS Packages
+- Added CentOS Plus
+- Added CentOS Updates
+- Added Cityfan
+- Added Couchbase Community
+- Added Docker
+- Added Duo Security
+- Added Elasticbeats
+- Added Elasticsearch
+- Added Elasticsearch (Curator)
+- Added Erlang Solutions
+- Added Extra Packages for Enterprise Linux (EPEL)
+- Added GitLFS
+- Added GlusterFS
+- Added Grafana
+- Added Logstash
+- Added Lucky Rocketship Underpants (Custom Packages)
+- Added MySQL 5.5
+- Added MySQL 5.6
+- Added MySQL 5.7
+- Added MySQL Connectors
+- Added MySQL Tools
+- Added New Relic
+- Added Nginx (mainline)
+- Added Nginx (release)
+- Added NodeSource 0.12
+- Added NodeSource 4.x
+- Added NodeSource 5.x
+- Added NodeSource 6.x
+- Added NodeSource 7.x
+- Added OpenStack
+- Added OSQuery
+- Added Remi
+- Added Rsyslog8
+- Added Sensu
+- Added Stackdriver
+- Added VirtualBox
+- Added Xen
