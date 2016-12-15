@@ -12,7 +12,7 @@ RHEL=$(shell rpm -q --queryformat '%{VERSION}' centos-release)
 .PHONY: package
 package:
 	rm -f centos7*
-	wget -O centos7.repo https://raw.githubusercontent.com/luckyrocketshipunderpants/centos7-repos/master/all.repo
+	wget -O centos7.repo https://raw.githubusercontent.com/luckyrocketshipunderpants/centos7-repos/master/centos7.repo
 
 	fpm \
 		-f \
