@@ -1,6 +1,6 @@
 NAME=centos7-repos
 VERSION=1.0.3
-ITERATION=1
+ITERATION=1.lru
 PREFIX=/etc/yum.repos.d
 LICENSE=None
 VENDOR="Lucky Rocketship Underpants"
@@ -21,7 +21,6 @@ package:
 		-n $(NAME) \
 		-v $(VERSION) \
 		-m $(MAINTAINER) \
-		--epoch 1 \
 		--iteration $(ITERATION) \
 		--license $(LICENSE) \
 		--vendor $(VENDOR) \
