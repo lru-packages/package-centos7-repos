@@ -1,5 +1,5 @@
 NAME=centos7-repos
-VERSION=1.0.3
+VERSION=1.0.4
 ITERATION=1.lru
 PREFIX=/etc/yum.repos.d
 LICENSE=None
